@@ -33,14 +33,14 @@ const API_SITES = {
         detail: 'http://ffzy5.tv',
     },
     lhys: {
-        api: ' http://lehootv.com',
+        api: 'http://lehootv.com',
         name: '乐活影视',
-        detail: ' http://lehootv.com',
+        detail: 'http://lehootv.com',
     },
     yszyw: {
-        api: '  http://api.ykapi.net',
+        api: 'http://m3u8.apiyhzy.com',
         name: '影库资源网',
-        detail: ' http://api.ykapi.net',
+        detail: 'http://m3u8.apiyhzy.com',
     },
    
     
