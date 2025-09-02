@@ -22,12 +22,17 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-    testSource: {
-        api: 'http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8',
-        name: '空',
-        adult: true
-    }
-    //ARCHIVE https://telegra.ph/APIs-08-12
+    heimuer: {
+        api: 'https://json.heimuer.xyz',
+        name: '黑木耳',
+        detail: 'https://heimuer.tv',
+    },
+    ffzy: {
+        api: 'http://ffzy5.tv',
+        name: '非凡影视',
+        detail: 'http://ffzy5.tv',
+    },
+    
 };
 
 // 定义合并方法
