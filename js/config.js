@@ -33,9 +33,9 @@ const API_SITES = {
         detail: 'http://ffzy5.tv',
     },
     lhys: {
-        api: ' http://lehootv.com/api.php/provide/vod',
+        api: ' http://lehootv.com',
         name: '乐活影视',
-        detail: ' http://lehootv.com/api.php/provide/vod',
+        detail: ' http://lehootv.com',
     },
    
     
