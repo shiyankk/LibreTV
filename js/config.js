@@ -37,6 +37,11 @@ const API_SITES = {
         name: '乐活影视',
         detail: ' http://lehootv.com',
     },
+    yszyw: {
+        api: '  http://api.ykapi.net',
+        name: '影库资源网',
+        detail: ' http://api.ykapi.net',
+    },
    
     
 };
